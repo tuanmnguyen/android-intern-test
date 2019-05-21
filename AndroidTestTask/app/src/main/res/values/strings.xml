@@ -1,0 +1,63 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Android Test Task</string>
+
+    <!-- Date & Time format -->
+    <string name="date_format">dd MMMM yyyy</string>
+    <string name="time_format">HH:mm</string>
+    <string name="date_format_input">yyyy-MM-dd</string>
+
+    <!-- Bundle IDs -->
+    <string name="episode_name">EpisodeName</string>
+    <string name="episode_number">EpisodeNumber</string>
+    <string name="episode_season">EpisodeSeason</string>
+    <string name="episode_airdate">EpisodeAirdate</string>
+    <string name="episode_airtime">EpisodeAirtime</string>
+    <string name="episode_runtime">EpisodeRuntime</string>
+    <string name="episode_image_large">EpisodeImageLarge</string>
+    <string name="episode_summary">EpisodeSummary</string>
+    <string name="episode_url">EpisodeURL</string>
+
+    <!-- JSON keys -->
+    <string name="id">id</string>
+    <string name="url">url</string>
+    <string name="name">name</string>
+    <string name="season">season</string>
+    <string name="number">number</string>
+    <string name="airdate">airdate</string>
+    <string name="airtime">airtime</string>
+    <string name="airstamp">airstamp</string>
+    <string name="runtime">runtime</string>
+    <string name="image">image</string>
+    <string name="medium">medium</string>
+    <string name="original">original</string>
+    <string name="summary">summary</string>
+
+    <!-- List item format -->
+    <string name="list_item_title">Season %d: Episode %d</string>
+
+    <!-- Details format -->
+    <string name="details_season_title">Season %s</string>
+    <string name="details_episode_title">Episode %s: %s</string>
+    <string name="details_runtime_format">Runtime: %s</string>
+    <string name="details_airdate_format">Airdate: %s - %s</string>
+
+    <!-- Message text -->
+    <string name="message_loading_url">Loading URL ...</string>
+    <string name="message_error">An error has occurred</string>
+
+    <!-- API URL  -->
+    <string name="API_URL">http://api.tvmaze.com/shows/1/episodes</string>
+
+    <!-- Sample text -->
+    <string name="sample_text_season">Season 1</string>
+    <string name="sample_text_episode_title">Episode 1: Pilot</string>
+    <string name="sample_text_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</string>
+    <string name="sample_text_airdate">Airdate: 24 June 2013 - 22:00</string>
+    <string name="sample_text_runtime">Runtime: 60 minutes</string>
+    <string name="sample_text_item_title">Season 1: Episode 1</string>
+    <string name="sample_text_item_name">Episode name</string>
+
+    <!-- Button text -->
+    <string name="button_text_openurl">View on TV MAZE ></string>
+</resources>
